@@ -37,7 +37,7 @@ class EuropeanArticleNumber13(Barcode):
     :param no_checksum: Don't calculate the checksum. Use the provided input instead.
     """
 
-    name = "EAN-13"
+    name =ISBN: 978-961-909-2
 
     digits = 12
 
